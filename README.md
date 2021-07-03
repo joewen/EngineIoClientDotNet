@@ -2,7 +2,7 @@
 
 Engine.IO Client Library for .Net
 
-Fork from [https://github.com/joewen/EngineIoClientDotNet](https://github.com/joewen/EngineIoClientDotNet).
+Fork from [https://github.com/Quobject/EngineIoClientDotNet](https://github.com/Quobject/EngineIoClientDotNet).
 
 This is the Engine.IO Client Library for C#, which is ported from the [JavaScript client](https://github.com/Automattic/engine.io-client).
 
